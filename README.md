@@ -1,6 +1,6 @@
 # Texture05
 
-#直接从源纹理坐标数据修改
+#直接从源纹理坐标数据修改(详见TargetView.m 第98行注视)
 
 GLfloat attrArr[] =
 
